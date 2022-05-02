@@ -7,6 +7,6 @@ public class skillT
 	@Test
 	public void test()
 	{
-		assertEquals(10, skillD.compare(10, 20));
+		assertEquals(10, skillD.compare(10, 8));
 	}
 }
